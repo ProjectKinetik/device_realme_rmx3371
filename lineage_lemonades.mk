@@ -23,8 +23,8 @@ PRODUCT_MODEL := LE2101
 PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="OnePlus9R_IND-user 14 UKQ1.230924.001 R.186814e_3fcd-4c58 release-keys" \
-    BuildFingerprint=OnePlus/OnePlus9R_IND/OnePlus9R:14/UKQ1.230924.001/R.186814e_3fcd-4c58:user/release-keys \
+    BuildDesc="OnePlus9R_IND-user 14 UKQ1.230924.001 R.1a6672a-1faa2-4c13c release-keys" \
+    BuildFingerprint=OnePlus/OnePlus9R_IND/OnePlus9R:14/UKQ1.230924.001/R.1a6672a-1faa2-4c13c:user/release-keys \
     DeviceName=OnePlus9R \
     DeviceProduct=OnePlus9R \
     SystemDevice=OnePlus9R \
