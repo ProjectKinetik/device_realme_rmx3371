@@ -14,13 +14,13 @@ namespace_imports = [
 ]
 
 module = ExtractUtilsModule(
-    'lemonades',
-    'oneplus',
+    'rmx3371',
+    'realme',
     namespace_imports=namespace_imports,
 )
 
 if __name__ == '__main__':
     utils = ExtractUtils.device_with_common(
-        module, 'sm8250-common', module.vendor
+        module, '../oneplus/sm8250-common', module.vendor
     )
     utils.run()
